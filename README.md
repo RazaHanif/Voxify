@@ -19,13 +19,13 @@ Voxify is a powerful SaaS platform that converts speech to text, provides AI-pow
 
 ## 🧱 Tech Stack
 
-🤫 **Classified** — itstlike magic ✨
+🤫 **Classified** — its like magic ✨
 
 ---
 
 ## 🧪 Coming Soon
 
-i guess this part is coming soon aswell
+...
 
 ---
 
